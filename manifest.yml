@@ -1,0 +1,8 @@
+applications:
+- path: target/Spring4MVCHello.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: springmvchello
+  host: springmvchello
+  disk_quota: 1024M
