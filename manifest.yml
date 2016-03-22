@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: springmvchello
-  host: springmvchello
+  name: Spring4Mvc
+  host: Spring4Mvc
   disk_quota: 1024M
